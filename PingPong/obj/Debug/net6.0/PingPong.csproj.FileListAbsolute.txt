@@ -1,0 +1,15 @@
+/Users/genesis/Desktop/csharp-proj/cs-template/PingPong.Solution/PingPong/bin/Debug/net6.0/PingPong
+/Users/genesis/Desktop/csharp-proj/cs-template/PingPong.Solution/PingPong/bin/Debug/net6.0/PingPong.deps.json
+/Users/genesis/Desktop/csharp-proj/cs-template/PingPong.Solution/PingPong/bin/Debug/net6.0/PingPong.runtimeconfig.json
+/Users/genesis/Desktop/csharp-proj/cs-template/PingPong.Solution/PingPong/bin/Debug/net6.0/PingPong.dll
+/Users/genesis/Desktop/csharp-proj/cs-template/PingPong.Solution/PingPong/bin/Debug/net6.0/PingPong.pdb
+/Users/genesis/Desktop/csharp-proj/cs-template/PingPong.Solution/PingPong/obj/Debug/net6.0/PingPong.csproj.AssemblyReference.cache
+/Users/genesis/Desktop/csharp-proj/cs-template/PingPong.Solution/PingPong/obj/Debug/net6.0/PingPong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/genesis/Desktop/csharp-proj/cs-template/PingPong.Solution/PingPong/obj/Debug/net6.0/PingPong.AssemblyInfoInputs.cache
+/Users/genesis/Desktop/csharp-proj/cs-template/PingPong.Solution/PingPong/obj/Debug/net6.0/PingPong.AssemblyInfo.cs
+/Users/genesis/Desktop/csharp-proj/cs-template/PingPong.Solution/PingPong/obj/Debug/net6.0/PingPong.csproj.CoreCompileInputs.cache
+/Users/genesis/Desktop/csharp-proj/cs-template/PingPong.Solution/PingPong/obj/Debug/net6.0/PingPong.dll
+/Users/genesis/Desktop/csharp-proj/cs-template/PingPong.Solution/PingPong/obj/Debug/net6.0/refint/PingPong.dll
+/Users/genesis/Desktop/csharp-proj/cs-template/PingPong.Solution/PingPong/obj/Debug/net6.0/PingPong.pdb
+/Users/genesis/Desktop/csharp-proj/cs-template/PingPong.Solution/PingPong/obj/Debug/net6.0/PingPong.genruntimeconfig.cache
+/Users/genesis/Desktop/csharp-proj/cs-template/PingPong.Solution/PingPong/obj/Debug/net6.0/ref/PingPong.dll
